@@ -4,4 +4,18 @@ const nextConfig = {
   swcMinify: true,
 }
 
-module.exports = nextConfig
+module.exports = {
+  async headers() {
+    return [
+      {
+        source: '/pages',
+        headers: [
+          {
+            key: 'Content-Encoding',
+            value: 'br',
+          },
+        ],
+      },
+    ]
+  },
+}
