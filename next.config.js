@@ -1,14 +1,9 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
-  swcMinify: true,
-}
-
 module.exports = {
   async headers() {
     return [
       {
-        source: '/pages',
+        source: '/index',
         headers: [
           {
             key: 'Content-Encoding',
