@@ -1,15 +1,7 @@
-module.exports = {
-    async headers() {
-      return [
-        {
-          source: '/index',
-          headers: [
-            {
-              key: 'Content-Encoding',
-              value: 'br',
-            },
-          ],
-        },
-      ]
-    },
-  }
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  reactStrictMode: true,
+  swcMinify: true,
+}
+
+module.exports = nextConfig
