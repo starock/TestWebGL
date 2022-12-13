@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3454497122
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: sfx.ab
+      Dependencies: {}
+    Info_1:
+      Name: bgm.ab
+      Dependencies: {}
+    Info_2:
+      Name: feature.ab
+      Dependencies:
+        Dependency_0: mat_test.ab
+    Info_3:
+      Name: mat_test.ab
+      Dependencies: {}
