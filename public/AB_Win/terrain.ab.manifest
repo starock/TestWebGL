@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 450354167
+CRC: 1454320593
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: baf2b1e63d9ace29465d810d5f28edc7
+    Hash: dd05d82790854974cdaa541c1ef430df
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a356939775dfd7ca577a2fee0d81f460
+    Hash: 72a6d43e82906dc76e81a5bfbbaf43cf
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -17,11 +17,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 23
   Script: {instanceID: 0}
-- Class: 28
-  Script: {instanceID: 0}
 - Class: 33
-  Script: {instanceID: 0}
-- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 19810c016149ca945ae819bc5a0f7f44, type: 3}
@@ -29,10 +25,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Res/Texture/Terrain/TerrainBlock.png
-- Assets/Res/Shader/Water.shadergraph
-- Assets/Res/Material/Terrain/Water.mat
-- Assets/Res/Shader/Terrain.shadergraph
-- Assets/Res/Material/Terrain/Terrain.mat
 - Assets/Prefab/Terrain/Chunk.prefab
-Dependencies: []
+Dependencies:
+- E:/Git/OpenMetaSDK/AssetBundles/StandaloneWindows/mat_main.ab
