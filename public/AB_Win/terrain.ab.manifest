@@ -1,30 +1,23 @@
 ManifestFileVersion: 0
-CRC: 1454320593
+CRC: 858144412
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dd05d82790854974cdaa541c1ef430df
+    Hash: 350b0f026dc2e4ae9eb1f44257313fd9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 72a6d43e82906dc76e81a5bfbbaf43cf
+    Hash: 6ae21af640d242fffb56b1999769f495
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
 - Class: 4
   Script: {instanceID: 0}
-- Class: 21
-  Script: {instanceID: 0}
 - Class: 23
   Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
-- Class: 114
-  Script: {fileID: 11500000, guid: 19810c016149ca945ae819bc5a0f7f44, type: 3}
-- Class: 115
-  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Prefab/Terrain/Chunk.prefab
-Dependencies:
-- E:/Git/OpenMetaSDK/AssetBundles/StandaloneWindows/mat_main.ab
+Dependencies: []

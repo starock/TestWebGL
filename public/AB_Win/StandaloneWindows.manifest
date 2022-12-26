@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 446454837
+CRC: 3145348154
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -14,8 +14,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_3:
       Name: terrain.ab
-      Dependencies:
-        Dependency_0: mat_main.ab
+      Dependencies: {}
     Info_4:
       Name: skybox.ab
       Dependencies: {}
