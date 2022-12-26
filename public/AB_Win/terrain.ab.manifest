@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4193229950
+CRC: 450354167
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bfd8ba6a9647cc1359a89d20f0e8c4c1
+    Hash: baf2b1e63d9ace29465d810d5f28edc7
   TypeTreeHash:
     serializedVersion: 2
     Hash: a356939775dfd7ca577a2fee0d81f460
@@ -29,10 +29,10 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Res/Texture/Terrain/TerrainBlock.png
 - Assets/Res/Shader/Water.shadergraph
 - Assets/Res/Material/Terrain/Water.mat
 - Assets/Res/Shader/Terrain.shadergraph
-- Assets/Res/Texture/Terrain/TerrainBlock.psd
 - Assets/Res/Material/Terrain/Terrain.mat
 - Assets/Prefab/Terrain/Chunk.prefab
 Dependencies: []
