@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3668771500
+CRC: 1260768899
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 72064b2f92f9ccb11dc6b3a13514e6fc
+    Hash: b0106cba636f215d6d38a0e908f4aca2
   TypeTreeHash:
     serializedVersion: 2
     Hash: f9f3d136959ac0e7043e721e899342fb
@@ -18,6 +18,7 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Shader/Water.shadergraph
+- Assets/Res/Material/SkyBox/SkyBox1.mat
 - Assets/Res/Material/Terrain/Water.mat
 - Assets/Res/Shader/Terrain.shadergraph
 - Assets/Res/Material/Terrain/Terrain.mat
