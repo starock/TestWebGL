@@ -1,11 +1,20 @@
 ManifestFileVersion: 0
-CRC: 3436012206
+CRC: 204869040
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: model_base.ab
-      Dependencies:
-        Dependency_0: material_base.ab
+      Name: sfx.ab
+      Dependencies: {}
     Info_1:
-      Name: material_base.ab
+      Name: feature.ab
+      Dependencies:
+        Dependency_0: mat_test.ab
+    Info_2:
+      Name: mat_test.ab
+      Dependencies: {}
+    Info_3:
+      Name: terrain.ab
+      Dependencies: {}
+    Info_4:
+      Name: skybox.ab
       Dependencies: {}

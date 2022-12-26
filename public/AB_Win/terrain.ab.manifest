@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 4193229950
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bfd8ba6a9647cc1359a89d20f0e8c4c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a356939775dfd7ca577a2fee0d81f460
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 19810c016149ca945ae819bc5a0f7f44, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Shader/Water.shadergraph
+- Assets/Res/Material/Terrain/Water.mat
+- Assets/Res/Shader/Terrain.shadergraph
+- Assets/Res/Texture/Terrain/TerrainBlock.psd
+- Assets/Res/Material/Terrain/Terrain.mat
+- Assets/Prefab/Terrain/Chunk.prefab
+Dependencies: []

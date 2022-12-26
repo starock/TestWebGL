@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1578036358
+CRC: 2167468234
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b0540a6640813962936be7314d21d16d
+    Hash: ec5466be852b651003dfecb4de14877c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4db82f4e618e4630b2fa8228e9c6d8d1
@@ -25,6 +25,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Prefabs/Cube.prefab
+- Assets/Prefab/Feature/Cube.prefab
 Dependencies:
-- E:/UnityGame/Voxel/AssetBundles/StandaloneWindows/material_base.ab
+- E:/Git/OpenMetaSDK/AssetBundles/StandaloneWindows/mat_test.ab
