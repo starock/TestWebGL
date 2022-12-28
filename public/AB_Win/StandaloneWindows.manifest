@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3192143368
+CRC: 3394303047
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -7,8 +7,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_1:
       Name: feature.ab
-      Dependencies:
-        Dependency_0: mat_test.ab
+      Dependencies: {}
     Info_2:
       Name: mat_test.ab
       Dependencies: {}

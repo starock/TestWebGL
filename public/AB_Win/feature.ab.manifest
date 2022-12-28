@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2167468234
+CRC: 2251440312
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ec5466be852b651003dfecb4de14877c
+    Hash: 9c95432f828b15e52c1f723e620f477f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4db82f4e618e4630b2fa8228e9c6d8d1
+    Hash: d39c0c79d7207261ae1b34ea67440333
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -17,14 +17,17 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 23
   Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
-- Class: 65
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 82
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Prefab/Feature/Cube.prefab
-Dependencies:
-- E:/Git/OpenMetaSDK/AssetBundles/StandaloneWindows/mat_test.ab
+- Assets/Prefab/Feature/Audio.prefab
+Dependencies: []
