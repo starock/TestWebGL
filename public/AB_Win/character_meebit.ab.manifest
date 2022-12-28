@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4152843720
+CRC: 2428604980
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 331b3f74f49204d51111c1e2e22c0139
+    Hash: c26c8ed24771acb557a451a71794d5b5
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6e741a7220e2dcdb23bbc0aaefbe42cb
+    Hash: 2d53bed545fd0fee10f1d7596630b14e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -14,10 +14,6 @@ ClassTypes:
 - Class: 4
   Script: {instanceID: 0}
 - Class: 21
-  Script: {instanceID: 0}
-- Class: 23
-  Script: {instanceID: 0}
-- Class: 33
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
@@ -44,22 +40,14 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Character/Meebit/Model/Mask/Body_Upper.mask
-- Assets/Res/Character/Meebit/Animation/meebit_01377@Slide.fbx
-- Assets/Res/Character/Meebit/Animation/meebit_01377@Idle.fbx
-- Assets/Res/Character/Meebit/Animation/Aim2.fbx
-- Assets/Res/Character/Meebit/Animation/meebit_01377@Jog.fbx
-- Assets/Res/Character/Meebit/Animation/Walk.fbx
-- Assets/Res/Character/Meebit/Animation/Standing.fbx
 - Assets/Res/Character/Meebit/Model/meebit_6279.fbx
-- Assets/Res/Character/Meebit/Animation/Running.fbx
+- Assets/Res/Character/Meebit/Animation/Jump.fbx
+- Assets/Res/Character/Meebit/Animation/Fall.fbx
 - Assets/Res/Character/Meebit/Prefab/Character.prefab
 - Assets/Res/Character/Meebit/Controller/NormalMovement_Meebit.controller
-- Assets/Res/Character/Meebit/Animation/meebit_01377@CrouchWalk.fbx
-- Assets/Res/Character/Meebit/Animation/Falling.fbx
-- Assets/Res/Character/Meebit/Animation/Jumping.fbx
-- Assets/Res/Character/Meebit/Animation/Aim.fbx
-- Assets/Res/Character/Meebit/Animation/meebit_01377@Crouch.fbx
-- Assets/Res/Character/Meebit/Animation/Idle2.fbx
-- Assets/Res/Character/Meebit/Animation/Fire.fbx
+- Assets/Res/Character/Meebit/Animation/Walk.fbx
+- Assets/Res/Character/Meebit/Animation/Run.fbx
 - Assets/Res/Character/Meebit/Animation/Jog.fbx
+- Assets/Res/Character/Meebit/Animation/Idle.fbx
+- Assets/Res/Character/Meebit/Animation/Fly.fbx
 Dependencies: []

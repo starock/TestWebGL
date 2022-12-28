@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1260768899
+CRC: 1530594615
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b0106cba636f215d6d38a0e908f4aca2
+    Hash: b3e5124bcb41b87feeed5e1e15bab54a
   TypeTreeHash:
     serializedVersion: 2
     Hash: f9f3d136959ac0e7043e721e899342fb
@@ -17,6 +17,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Res/Material/Main/Bloom.mat
 - Assets/Res/Shader/Water.shadergraph
 - Assets/Res/Material/SkyBox/SkyBox1.mat
 - Assets/Res/Material/Terrain/Water.mat

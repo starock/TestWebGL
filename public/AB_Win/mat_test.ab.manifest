@@ -1,22 +1,17 @@
 ManifestFileVersion: 0
-CRC: 1663683360
+CRC: 774287355
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d3910c642e2117941781be2e550eada3
+    Hash: ab2dbd4818f7cd09c449f00860a07629
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f9f3d136959ac0e7043e721e899342fb
+    Hash: b0363f7088f9761414f730641bf9a24b
 HashAppended: 0
 ClassTypes:
-- Class: 21
-  Script: {instanceID: 0}
 - Class: 28
-  Script: {instanceID: 0}
-- Class: 48
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Res/Material/TestCube.mat
 - Assets/Res/Texture/Block/mc/10.png
 Dependencies: []
