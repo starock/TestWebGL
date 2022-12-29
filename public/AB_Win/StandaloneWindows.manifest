@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1998742518
+CRC: 1714602098
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -9,6 +9,7 @@ AssetBundleManifest:
       Name: feature.ab
       Dependencies:
         Dependency_0: mat_main.ab
+        Dependency_1: building.ab
     Info_2:
       Name: mat_test.ab
       Dependencies: {}
@@ -26,8 +27,5 @@ AssetBundleManifest:
       Name: character_meebit.ab
       Dependencies: {}
     Info_7:
-      Name: brick.ab
-      Dependencies: {}
-    Info_8:
       Name: building.ab
       Dependencies: {}
