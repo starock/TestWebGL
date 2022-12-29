@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2389360332
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: edf9c781ba9f175a2768e26305f684fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Audio/Character/walk.wav
+- Assets/Res/Audio/SFX/switch_open.wav
+- Assets/Res/Audio/Character/run.wav
+- Assets/Res/Audio/SFX/shotOnBoard.wav
+- Assets/Res/Audio/SFX/laser.wav
+- Assets/Res/Audio/SFX/drop.mp3
+- Assets/Res/Audio/SFX/switch_close.wav
+Dependencies: []
