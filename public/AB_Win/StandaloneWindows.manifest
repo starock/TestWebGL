@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1053704756
+CRC: 1926996240
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -27,4 +27,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_7:
       Name: brick.ab
+      Dependencies: {}
+    Info_8:
+      Name: building.ab
       Dependencies: {}
