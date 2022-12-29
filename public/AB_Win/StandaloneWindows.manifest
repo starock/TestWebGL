@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 710883107
+CRC: 1053704756
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -24,4 +24,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_6:
       Name: character_meebit.ab
+      Dependencies: {}
+    Info_7:
+      Name: brick.ab
       Dependencies: {}
