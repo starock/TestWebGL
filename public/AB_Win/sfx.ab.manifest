@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 274703901
+CRC: 2389360332
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d5135482e9199e4e2b884a082118e0fc
+    Hash: edf9c781ba9f175a2768e26305f684fc
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
@@ -18,7 +18,6 @@ Assets:
 - Assets/Res/Audio/Character/run.wav
 - Assets/Res/Audio/SFX/shotOnBoard.wav
 - Assets/Res/Audio/SFX/laser.wav
-- Assets/Res/Audio/SFX/equip.mp3
 - Assets/Res/Audio/SFX/drop.mp3
 - Assets/Res/Audio/SFX/switch_close.wav
 Dependencies: []
