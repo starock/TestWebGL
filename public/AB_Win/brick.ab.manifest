@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 63721154
+CRC: 1613142341
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4a2c5ee508eea583f5da487584acddaf
+    Hash: c77877e893f5ef635e5fc6b5d575db04
   TypeTreeHash:
     serializedVersion: 2
     Hash: f9f3d136959ac0e7043e721e899342fb
@@ -18,4 +18,5 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Brick/BrickAtlas.mat
+- Assets/Res/Brick/Special_0_2.mat
 Dependencies: []
