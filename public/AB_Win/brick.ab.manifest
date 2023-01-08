@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1613142341
+CRC: 2953285545
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c77877e893f5ef635e5fc6b5d575db04
+    Hash: 344a52bc4d55a28454c19e91b9d97a74
   TypeTreeHash:
     serializedVersion: 2
     Hash: f9f3d136959ac0e7043e721e899342fb
@@ -17,6 +17,17 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Res/Brick/BrickAtlas.mat
+- Assets/Res/Brick/Special_3_3.mat
+- Assets/Res/Brick/Special_3_1.mat
+- Assets/Res/Brick/Special_4_8.mat
+- Assets/Res/Brick/Special_3_5.mat
+- Assets/Res/Brick/Special_3_8.mat
 - Assets/Res/Brick/Special_0_2.mat
+- Assets/Res/Brick/Special_3_9.mat
+- Assets/Res/Brick/Special_3_11.mat
+- Assets/Res/Brick/Special_3_7.mat
+- Assets/Res/Brick/Special_3_2.mat
+- Assets/Res/Brick/Special_3_10.mat
+- Assets/Res/Brick/Special_3_4.mat
+- Assets/Res/Brick/Special_3_6.mat
 Dependencies: []
