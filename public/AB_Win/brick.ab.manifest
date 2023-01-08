@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2953285545
+CRC: 375473294
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 344a52bc4d55a28454c19e91b9d97a74
+    Hash: 4bf73c11d7899768636e3302767390c5
   TypeTreeHash:
     serializedVersion: 2
     Hash: f9f3d136959ac0e7043e721e899342fb
@@ -21,6 +21,7 @@ Assets:
 - Assets/Res/Brick/Special_3_1.mat
 - Assets/Res/Brick/Special_4_8.mat
 - Assets/Res/Brick/Special_3_5.mat
+- Assets/Res/Brick/BrickAtlas.mat
 - Assets/Res/Brick/Special_3_8.mat
 - Assets/Res/Brick/Special_0_2.mat
 - Assets/Res/Brick/Special_3_9.mat
