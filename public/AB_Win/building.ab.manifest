@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1873814585
+CRC: 2349209248
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d7ae9b8788a70ed9187a0f2256eae592
+    Hash: 8faf10380ef12c88525927df37e375d2
   TypeTreeHash:
     serializedVersion: 2
     Hash: a3954d9da6324b836c32a89fa85d00a9
@@ -27,6 +27,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Res/Model/RoundCube.fbx
 - Assets/Prefab/Building/RoundCube.prefab
 Dependencies: []
