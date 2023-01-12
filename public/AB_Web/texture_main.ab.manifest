@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3510661333
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44cb632c213a479ea704ba9db62a7a08
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc72f4f1bdf0f56dff8b964f0984894c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 187
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Texture/Terrain/TerrainBlock.png
+- Assets/Res/Texture/Terrain/TerrainBlockCyber.png
+- Assets/Res/Texture/Block/BrickAtlas.png
+- Assets/Res/Texture/Terrain/tile_water.png
+Dependencies: []

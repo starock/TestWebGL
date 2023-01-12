@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4015375701
+CRC: 2991685422
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 00f99f2914b2dd78d14e7642acaca223
+    Hash: 9968f468fd28ae9508d6561683169e51
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4db82f4e618e4630b2fa8228e9c6d8d1
+    Hash: a3954d9da6324b836c32a89fa85d00a9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -21,10 +21,11 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
 - Class: 65
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Prefabs/Cube.prefab
-Dependencies:
-- E:/UnityGame/Voxel/AssetBundles/WebGL/material_base.ab
+- Assets/Prefab/Building/RoundCube.prefab
+Dependencies: []

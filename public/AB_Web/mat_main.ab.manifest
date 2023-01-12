@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3001041593
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72e47fa705c50c6c950dff1259ce1b7d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9f3d136959ac0e7043e721e899342fb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Material/Main/Bloom.mat
+- Assets/Res/Shader/Water.shadergraph
+- Assets/Res/Material/SkyBox/SkyBox1.mat
+- Assets/Res/Material/Terrain/Water.mat
+- Assets/Res/Shader/Terrain.shadergraph
+- Assets/Res/Material/Terrain/Terrain.mat
+Dependencies:
+- E:/Git/OpenMetaSDK/AssetBundles/StandaloneWeb/texture_main.ab
