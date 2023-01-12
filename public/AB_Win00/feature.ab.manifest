@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3005038436
+CRC: 1867020399
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f840ded1d7088bd6fb0ea3ceffe0f530
+    Hash: 8bb8f596422f37301c86871762b3d01b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 88d67add5c025ddb35910da259690f05
@@ -68,4 +68,4 @@ Assets:
 - Assets/Prefab/Feature/Trigger.prefab
 - Assets/Prefab/Feature/Gif.prefab
 Dependencies:
-- E:/Git/OpenMetaSDK/AssetBundles/StandaloneWeb/mat_main.ab
+- E:/Git/OpenMetaSDK/AssetBundles/StandaloneWindows/mat_main.ab

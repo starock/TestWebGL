@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2875176431
+CRC: 2037701334
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d586bf43d777c968fff9fed885039f1c
+    Hash: 6563c5e3df641f3c902a5b66df8663e3
   TypeTreeHash:
     serializedVersion: 2
     Hash: 81fc4833398717ae320ec5bd08c661f4
@@ -25,5 +25,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Prefab/Items/icon_loading.prefab
+- Assets/Prefab/Terrain/RoundPlane.prefab
 Dependencies: []

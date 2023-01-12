@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1530594615
+CRC: 3001041593
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b3e5124bcb41b87feeed5e1e15bab54a
+    Hash: 72e47fa705c50c6c950dff1259ce1b7d
   TypeTreeHash:
     serializedVersion: 2
     Hash: f9f3d136959ac0e7043e721e899342fb
@@ -24,4 +24,4 @@ Assets:
 - Assets/Res/Shader/Terrain.shadergraph
 - Assets/Res/Material/Terrain/Terrain.mat
 Dependencies:
-- E:/Git/OpenMetaSDK/AssetBundles/StandaloneWindows/texture_main.ab
+- E:/Git/OpenMetaSDK/AssetBundles/StandaloneWeb/texture_main.ab
