@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3970719989
+CRC: 3657876767
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -36,4 +36,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_10:
       Name: items.ab
+      Dependencies: {}
+    Info_11:
+      Name: 3d_text.ab
       Dependencies: {}
