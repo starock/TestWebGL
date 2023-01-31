@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2086439988
+CRC: 1754920981
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f840ded1d7088bd6fb0ea3ceffe0f530
+    Hash: 24ff6e91978c779f7e44bfdce854467f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 88d67add5c025ddb35910da259690f05
@@ -57,6 +57,7 @@ Assets:
 - Assets/Prefab/Feature/Cube.prefab
 - Assets/Prefab/Feature/Audio.prefab
 - Assets/Prefab/Feature/SocialFacebook.prefab
+- Assets/Prefab/Feature/Word3D.prefab
 - Assets/Prefab/Feature/NFT_Video.prefab
 - Assets/Prefab/Feature/TreasureBox.prefab
 - Assets/Prefab/Feature/Video.prefab
@@ -68,4 +69,4 @@ Assets:
 - Assets/Prefab/Feature/Trigger.prefab
 - Assets/Prefab/Feature/Gif.prefab
 Dependencies:
-- E:/Git/OpenMetaSDK/AssetBundles/StandaloneWeb/mat_main.ab
+- E:/Git/OpenMetaSDK/AssetBundles/Web/mat_main.ab

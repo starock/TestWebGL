@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3001041593
+CRC: 3693809567
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 72e47fa705c50c6c950dff1259ce1b7d
+    Hash: fe45d2ba266b02e2d32b50cfe97b8403
   TypeTreeHash:
     serializedVersion: 2
     Hash: f9f3d136959ac0e7043e721e899342fb
@@ -17,11 +17,17 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Res/Shader/Emission.shadergraph
 - Assets/Res/Material/Main/Bloom.mat
 - Assets/Res/Shader/Water.shadergraph
+- Assets/Res/Shader/Dither.shadergraph
 - Assets/Res/Material/SkyBox/SkyBox1.mat
+- Assets/Prefab/Feature/Materials/Lightbeam.mat
 - Assets/Res/Material/Terrain/Water.mat
 - Assets/Res/Shader/Terrain.shadergraph
 - Assets/Res/Material/Terrain/Terrain.mat
+- Assets/Res/Shader/Emission.mat
+- Assets/Prefab/Feature/Model/Materials/LightbeamSource.mat
+- Assets/Res/Material/VFX/Dither.mat
 Dependencies:
-- E:/Git/OpenMetaSDK/AssetBundles/StandaloneWeb/texture_main.ab
+- E:/Git/OpenMetaSDK/AssetBundles/Web/texture_main.ab

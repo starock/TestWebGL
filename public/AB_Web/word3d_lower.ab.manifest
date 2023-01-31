@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 3612841857
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 798f65ec3f623f8a24186602aedf91f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 81fc4833398717ae320ec5bd08c661f4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefab/Feature/Word3D/lower/r.prefab
+- Assets/Prefab/Feature/Word3D/lower/n.prefab
+- Assets/Prefab/Feature/Word3D/lower/u.prefab
+- Assets/Prefab/Feature/Word3D/lower/v.prefab
+- Assets/Prefab/Feature/Word3D/lower/q.prefab
+- Assets/Prefab/Feature/Materials/Word3D.mat
+- Assets/Prefab/Feature/Word3D/lower/h.prefab
+- Assets/Prefab/Feature/Word3D/lower/l.prefab
+- Assets/Prefab/Feature/Word3D/lower/a.prefab
+- Assets/Prefab/Feature/Word3D/lower/i.prefab
+- Assets/Prefab/Feature/Word3D/lower/y.prefab
+- Assets/Prefab/Feature/Word3D/lower/w.prefab
+- Assets/Prefab/Feature/Word3D/lower/m.prefab
+- Assets/Prefab/Feature/Word3D/lower/f.prefab
+- Assets/Prefab/Feature/Word3D/lower/e.prefab
+- Assets/Prefab/Feature/Word3D/lower/x.prefab
+- Assets/Prefab/Feature/Word3D/lower/b.prefab
+- Assets/Prefab/Feature/Word3D/lower/z.prefab
+- Assets/Prefab/Feature/Word3D/lower/s.prefab
+- Assets/Prefab/Feature/Word3D/lower/p.prefab
+- Assets/Prefab/Feature/Word3D/lower/t.prefab
+- Assets/Prefab/Feature/Word3D/lower/g.prefab
+- Assets/Prefab/Feature/Word3D/lower/o.prefab
+- Assets/Prefab/Feature/Word3D/lower/k.prefab
+- Assets/Prefab/Feature/Word3D/lower/j.prefab
+- Assets/Prefab/Feature/Word3D/lower/d.prefab
+- Assets/Prefab/Feature/Word3D/lower/c.prefab
+Dependencies:
+- E:/Git/OpenMetaSDK/AssetBundles/Web/mat_main.ab
