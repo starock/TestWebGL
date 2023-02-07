@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3693809567
+CRC: 2650499912
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fe45d2ba266b02e2d32b50cfe97b8403
+    Hash: 6a77ac3db671d6071fb9e3b9600fab31
   TypeTreeHash:
     serializedVersion: 2
     Hash: f9f3d136959ac0e7043e721e899342fb
@@ -26,7 +26,7 @@ Assets:
 - Assets/Res/Material/Terrain/Water.mat
 - Assets/Res/Shader/Terrain.shadergraph
 - Assets/Res/Material/Terrain/Terrain.mat
-- Assets/Res/Shader/Emission.mat
+- Assets/Res/Material/Main/Emission.mat
 - Assets/Prefab/Feature/Model/Materials/LightbeamSource.mat
 - Assets/Res/Material/VFX/Dither.mat
 Dependencies:

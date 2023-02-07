@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1754920981
+CRC: 3403211995
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 24ff6e91978c779f7e44bfdce854467f
+    Hash: ff2a63b7aba0faeeb677f85d140f566a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 88d67add5c025ddb35910da259690f05
+    Hash: daad8ff1ed887dc581e75faaa209de96
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -39,6 +39,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 135
   Script: {instanceID: 0}
+- Class: 187
+  Script: {instanceID: 0}
 - Class: 198
   Script: {instanceID: 0}
 - Class: 199
@@ -56,6 +58,7 @@ Assets:
 - Assets/Prefab/Feature/Bloom.prefab
 - Assets/Prefab/Feature/Cube.prefab
 - Assets/Prefab/Feature/Audio.prefab
+- Assets/Prefab/Feature/CubeFluid.prefab
 - Assets/Prefab/Feature/SocialFacebook.prefab
 - Assets/Prefab/Feature/Word3D.prefab
 - Assets/Prefab/Feature/NFT_Video.prefab
