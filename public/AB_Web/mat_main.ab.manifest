@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2650499912
+CRC: 350568990
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6a77ac3db671d6071fb9e3b9600fab31
+    Hash: e7d4eeee61dd532c57dcc66c902d4e64
   TypeTreeHash:
     serializedVersion: 2
     Hash: f9f3d136959ac0e7043e721e899342fb
@@ -20,6 +20,7 @@ Assets:
 - Assets/Res/Shader/Emission.shadergraph
 - Assets/Res/Material/Main/Bloom.mat
 - Assets/Res/Shader/Water.shadergraph
+- Assets/Res/Material/Main/Outline.mat
 - Assets/Res/Shader/Dither.shadergraph
 - Assets/Res/Material/SkyBox/SkyBox1.mat
 - Assets/Prefab/Feature/Materials/Lightbeam.mat

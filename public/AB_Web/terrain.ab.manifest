@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 378722271
+CRC: 3224331866
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0b25bfd2a5ccd0134664f60d36b4eae0
+    Hash: fcbfd692b62ecf71052dd8e3a5970dd7
   TypeTreeHash:
     serializedVersion: 2
     Hash: 81fc4833398717ae320ec5bd08c661f4
@@ -26,4 +26,5 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Prefab/Terrain/RoundPlane.prefab
+- Assets/Prefab/Land/Land_Comfortable.prefab
 Dependencies: []
