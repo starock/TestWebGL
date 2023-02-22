@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3192843229
+CRC: 1430107502
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 75f988146f2ed98944ecb283a473d7e6
+    Hash: dbb02670f27ed13753a1cb00080aee19
   TypeTreeHash:
     serializedVersion: 2
     Hash: daad8ff1ed887dc581e75faaa209de96
@@ -57,6 +57,7 @@ Assets:
 - Assets/Prefab/Feature/Voxel.prefab
 - Assets/Prefab/Feature/Bloom.prefab
 - Assets/Prefab/Feature/Cube.prefab
+- Assets/Prefab/Feature/Social.prefab
 - Assets/Prefab/Feature/Audio.prefab
 - Assets/Prefab/Feature/CubeFluid.prefab
 - Assets/Prefab/Feature/SocialFacebook.prefab

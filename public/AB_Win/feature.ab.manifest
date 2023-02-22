@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1867020399
+CRC: 983642867
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8b5b2a52d55d720cc6b1b91010688528
+    Hash: 0c7a95d0e54e62f42f5977f26a6e392c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 88d67add5c025ddb35910da259690f05
+    Hash: daad8ff1ed887dc581e75faaa209de96
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -39,6 +39,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 135
   Script: {instanceID: 0}
+- Class: 187
+  Script: {instanceID: 0}
 - Class: 198
   Script: {instanceID: 0}
 - Class: 199
@@ -55,8 +57,11 @@ Assets:
 - Assets/Prefab/Feature/Voxel.prefab
 - Assets/Prefab/Feature/Bloom.prefab
 - Assets/Prefab/Feature/Cube.prefab
+- Assets/Prefab/Feature/Social.prefab
 - Assets/Prefab/Feature/Audio.prefab
+- Assets/Prefab/Feature/CubeFluid.prefab
 - Assets/Prefab/Feature/SocialFacebook.prefab
+- Assets/Prefab/Feature/Word3D.prefab
 - Assets/Prefab/Feature/NFT_Video.prefab
 - Assets/Prefab/Feature/TreasureBox.prefab
 - Assets/Prefab/Feature/Video.prefab
@@ -68,4 +73,4 @@ Assets:
 - Assets/Prefab/Feature/Trigger.prefab
 - Assets/Prefab/Feature/Gif.prefab
 Dependencies:
-- E:/Git/OpenMetaSDK/AssetBundles/StandaloneWindows/mat_main.ab
+- E:/Git/OpenMetaSDK/AssetBundles/Win/mat_main.ab
