@@ -3,7 +3,7 @@ CRC: 775867054
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d236ef8372b7ba8fbea4ec1f21d29bb0
+    Hash: 9a92769eb673905e0a30c77a5a93daf9
   TypeTreeHash:
     serializedVersion: 2
     Hash: f9f3d136959ac0e7043e721e899342fb
@@ -31,4 +31,4 @@ Assets:
 - Assets/Prefab/Feature/Model/Materials/LightbeamSource.mat
 - Assets/Res/Material/VFX/Dither.mat
 Dependencies:
-- E:/Git/OpenMetaSDK/AssetBundles/Web/texture_main.ab
+- D:/PlasticProjs/OpenMetaSdk/AssetBundles/Web/texture_main.ab

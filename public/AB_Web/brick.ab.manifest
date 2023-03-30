@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1607881480
+CRC: 4196113365
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 229ebbed46e62ef6e7e1c2f207ca06e2
+    Hash: 16b62b90548ea91caff4c58674a89b5f
   TypeTreeHash:
     serializedVersion: 2
     Hash: f9f3d136959ac0e7043e721e899342fb
@@ -25,10 +25,12 @@ Assets:
 - Assets/Res/Brick/Special_3_8.mat
 - Assets/Res/Brick/Special_0_2.mat
 - Assets/Res/Brick/Special_3_9.mat
+- Assets/Res/Material/Building/Bricks.mat
 - Assets/Res/Brick/Special_3_11.mat
 - Assets/Res/Brick/Special_3_7.mat
 - Assets/Res/Brick/Special_3_2.mat
 - Assets/Res/Brick/Special_3_10.mat
 - Assets/Res/Brick/Special_3_4.mat
 - Assets/Res/Brick/Special_3_6.mat
-Dependencies: []
+Dependencies:
+- D:/PlasticProjs/OpenMetaSdk/AssetBundles/Web/texture_main.ab
