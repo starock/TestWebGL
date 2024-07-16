@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 365778841
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb3442f49f84e00dd1e100d6d8669257
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b174b131bce0db556a3ef4e408559b1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 109
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 12b0b98acbcda44468a7ae4e35000abe, type: 3}
+Assets:
+- Assets/Spine/Runtime/spine-unity/Shaders/Utility/HiddenPass.shader
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Spine-Skeleton-Fill.shader
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Sprite/CGIncludes/SpritePixelLighting.cginc
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Sprite/SpriteVertexLighting.cginc
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Sprite/SpriteShadows.cginc
+- Assets/Spine/Runtime/spine-unity/Modules/SkeletonGraphic/SkeletonGraphicDefault.mat
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Sprite/README.md
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Sprite/CGIncludes/SpriteShadows.cginc
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Sprite/SpritePixelLighting.cginc
+- Assets/Spine/Runtime/spine-unity/Modules/SkeletonGraphic/SkeletonGraphicTintBlack.mat
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Sprite/SpriteLighting.cginc
+- Assets/Spine/Runtime/spine-unity/Shaders/BlendModes/SkeletonPMAAdditive.mat
+- Assets/Spine/Runtime/spine-unity/Modules/SkeletonGraphic/Spine-SkeletonGraphic-TintBlack.shader
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Sprite/ShaderShared.cginc
+- Assets/Spine/Runtime/spine-unity/Shaders/BlendModes/SkeletonPMAMultiply.mat
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Spine-Special-Skeleton-Grayscale.shader
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Sprite/CGIncludes/SpriteLighting.cginc
+- Assets/Spine/Runtime/spine-unity/Shaders/BlendModes/Spine-Skeleton-PMA-Screen.shader
+- Assets/Spine/Runtime/spine-unity/Shaders/BlendModes/Default BlendModeMaterials.asset
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Sprite/SpriteUnlit.cginc
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Sprite/CGIncludes/SpriteUnlit.cginc
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Sprite/SpritesPixelLit.shader
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Spine-Skeleton-Tint.shader
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Sprite/SpritesUnlit.shader
+- Assets/Spine/Runtime/spine-unity/Shaders/Utility/Hidden-Spine-Bones.shader
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Sprite/SpritesVertexLit.shader
+- Assets/Spine/Runtime/spine-unity/Shaders/BlendModes/Spine-Skeleton-PMA-Additive.shader
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Sprite/CGIncludes/SpriteVertexLighting.cginc
+- Assets/Spine/Runtime/spine-unity/Shaders/Utility/HiddenPass.mat
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Sprite/CameraDepthNormalsTexture.shader
+- Assets/Spine/Runtime/spine-unity/Shaders/Spine-Skeleton-TintBlack.shader
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Sprite/CGIncludes/ShaderShared.cginc
+- Assets/Spine/Runtime/spine-unity/Modules/SkeletonGraphic/Spine-SkeletonGraphic.shader
+- Assets/Spine/Runtime/spine-unity/Shaders/Spine-Skeleton.shader
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Sprite/CameraNormalsTexture.shader
+- Assets/Spine/Runtime/spine-unity/Shaders/BlendModes/SkeletonPMAScreen.mat
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Sprite/CameraDepthTexture.shader
+- Assets/Spine/Runtime/spine-unity/Shaders/BlendModes/Spine-Skeleton-PMA-Multiply.shader
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Sprite/CGIncludes/ShaderMaths.cginc
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Sprite/SpriteDepthNormalsTexture.shader
+- Assets/Spine/Runtime/spine-unity/Shaders/Spine-SkeletonLit.shader
+- Assets/Spine/Runtime/spine-unity/Modules/Shaders/Sprite/CGIncludes/SpriteSpecular.cginc
+Dependencies: []
